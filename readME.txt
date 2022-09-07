@@ -9,7 +9,7 @@ To run : Load the Project  , Build and Run .
 Files:
 -> The "live demo.mp4" video shows the working of application.
 -> " Final report.pdf " is the report work of the project.
--> Rest all is same as the HMM assignment.
+
 
 
 Things to Note:-
